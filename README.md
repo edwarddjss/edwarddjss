@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="./ed.webp" alt="Personal GIF" />
+<img align="right" height="150" src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif?cid=ecf05e47bcaya4wxhhtrymm74pxlddameqalhabc6fgo43ev&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 ###
 
@@ -32,7 +32,7 @@
 ###
 
 <div align="left">
-  <a href="https://discordapp.com/users/187359556874141696" target="_blank">
+  <a href="discordapp.com/users/187359556874141696" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
   <a href="https://www.linkedin.com/in/edwarddjss/" target="_blank">
