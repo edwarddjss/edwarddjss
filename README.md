@@ -23,7 +23,7 @@ CS @ Florida Atlantic ’26
 
 <img src="https://github-readme-stats.vercel.app/api?username=edwarddjss&show_icons=true&include_all_commits=true&count_private=true&hide_title=true&theme=transparent" height="155"/>
 <img src="https://streak-stats.demolab.com?user=edwarddjss&theme=transparent" height="155"/>
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=edwarddjss&bg_color=transparent&color=58a6ff&line=58a6ff&point=77befe&area=true&hide_border=true" height="155"/>
+<img src="https://github-readme-activity-graph.vercel.app/api?username=edwarddjss&bg_color=transparent&color=58a6ff&line=58a6ff&point=77befe&area=true&hide_border=true" height="155"/>
 
 </div>
 <!-- prettier-ignore-end -->
