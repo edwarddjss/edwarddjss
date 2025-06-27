@@ -1,8 +1,8 @@
 <!-- prettier-ignore-start -->
 <div align="center">
 
-# Edward De Jesus  
-CS @ Florida Atlantic ’26
+# Edward De Jesus
+**Full-Stack Developer | CS @ FAU '26**
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=edwarddjss.profile" alt="visitors"/>
 
@@ -10,20 +10,48 @@ CS @ Florida Atlantic ’26
 
 ---
 
-### Toolbox
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+### About
+Building scalable web applications and intelligent automation systems. Passionate about modern TypeScript ecosystems, system management, and AI integration.
+
+**Currently:** Freelance development | Open to internships & collaboration
+
+---
+
+### Featured Work
+| Project | Description | Stack |
+|---------|-------------|-------|
+| **[PULSE](https://github.com/edwarddjss/pulse-mcp)** | Enterprise system management platform with natural language AI control | TypeScript, MCP, Node.js |
+| **[Bilingual ABC](https://github.com/edwarddjss/Bilingual-ABC)** | Progressive web app for bilingual early education | React, TypeScript, PWA |
+| **[Trainer-Toe](https://github.com/edwarddjss/Trainer-Toe)** | Discord fitness bot with voice synthesis and workout tracking | TypeScript, Discord.js, TTS |
+
+---
+
+### Tech Stack
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
 ---
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=edwarddjss&show_icons=true&include_all_commits=true&count_private=true&hide_title=true&theme=transparent" height="155"/>
-<img src="https://streak-stats.demolab.com?user=edwarddjss&theme=transparent" height="155"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=edwarddjss&bg_color=transparent&color=58a6ff&line=58a6ff&point=77befe&area=true&hide_border=true" height="155"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=edwarddjss&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="150"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwarddjss&layout=compact&theme=transparent&hide_border=true&langs_count=6" height="150"/>
 
 </div>
+
+---
+
+<div align="center">
+
+**📍 Boca Raton, FL** | **💼 Available for opportunities**
+
+</div>
+
 <!-- prettier-ignore-end -->
