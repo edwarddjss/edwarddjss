@@ -20,9 +20,8 @@ Building scalable web applications and intelligent automation systems. Passionat
 ### Featured Work
 | Project | Description | Stack |
 |---------|-------------|-------|
-| **[PULSE](https://github.com/edwarddjss/pulse-mcp)** | Enterprise system management platform with natural language AI control | TypeScript, MCP, Node.js |
-| **[Bilingual ABC](https://github.com/edwarddjss/Bilingual-ABC)** | Progressive web app for bilingual early education | React, TypeScript, PWA |
-| **[Trainer-Toe](https://github.com/edwarddjss/Trainer-Toe)** | Discord fitness bot with voice synthesis and workout tracking | TypeScript, Discord.js, TTS |
+\| **[ExpoSnap](https://github.com/edwarddjss/exposnap)** | Screenshot-to-context tool for Expo Go apps, enabling AI-powered coding assistance from device screenshots | TypeScript, MCP, Node.js |
+
 
 ---
 
