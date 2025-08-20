@@ -20,7 +20,7 @@ Building scalable web applications and intelligent automation systems. Passionat
 ### Featured Work
 | Project | Description | Stack |
 |---------|-------------|-------|
-\| **[ExpoSnap](https://github.com/edwarddjss/exposnap)** | Screenshot-to-context tool for Expo Go apps, enabling AI-powered coding assistance from device screenshots | TypeScript, MCP, Node.js |
+\ **[ExpoSnap](https://github.com/edwarddjss/exposnap)** | Screenshot-to-context tool for Expo Go apps, enabling AI-powered coding assistance from device screenshots | TypeScript, MCP, Node.js |
 
 
 ---
