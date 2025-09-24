@@ -13,8 +13,6 @@
 ### About
 Building scalable web applications and intelligent automation systems. Passionate about modern TypeScript ecosystems, system management, and AI integration.
 
-**Currently:** Freelance development | Open to internships & collaboration
-
 ---
 
 ### Featured Work
