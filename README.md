@@ -44,10 +44,6 @@
 
 ---
 
-<div align="center">
 
-**📍 Boca Raton, FL** | **💼 Available for opportunities**
-
-</div>
 
 <!-- prettier-ignore-end -->
