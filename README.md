@@ -18,7 +18,7 @@
 | Project | Description | Stack |
 |---------|-------------|-------|
  **[ExpoSnap](https://github.com/edwarddjss/exposnap)** | Screenshot-to-context tool for Expo Go apps, enabling AI-powered coding assistance from device screenshots | TypeScript, MCP, Node.js |
-
+**[ketra](https://github.com/edwarddjss/ketra)** | Open and organize your projects. Search, pin favorites, and see git status at a glance. | Rust, TypeScript |
 
 ---
 
