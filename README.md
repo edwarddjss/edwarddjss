@@ -12,11 +12,13 @@
 ### Featured Work
 | Project | Description | Stack |
 |---------|-------------|-------|
- **[noctis](https://github.com/edwarddjss/noctis)** | Adaptive gamma control tool for gamers that monitors screen brightness and adjusts visibility in real-time. | Python, CustomTkinter, MSS |
- **[ExpoSnap](https://github.com/edwarddjss/exposnap)** | Screenshot-to-context tool for Expo Go apps, enabling AI-powered coding assistance from device screenshots | TypeScript, MCP, Node.js |
-**[OwlWatch](https://owlwatch.app/)** | A real-time FAU course-seat tracking tool that monitors Banner and alerts students when seats open. | TypeScript, Supabase, Nextjs |
+| **[noctis](https://github.com/edwarddjss/noctis)** | Adaptive gamma control tool for gamers that monitors screen brightness and adjusts visibility in real-time. | Python, CustomTkinter, MSS |
+| **[ExpoSnap](https://github.com/edwarddjss/exposnap)** | Screenshot-to-context tool for Expo Go apps, enabling AI-powered coding assistance from device screenshots | TypeScript, MCP, Node.js |
+| **[OwlWatch](https://owlwatch.app/)** | A real-time FAU course-seat tracking tool that monitors Banner and alerts students when seats open. | TypeScript, Supabase, Nextjs |
 
 ---
+
+<div align="center">
 
 ### Tech Stack
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -27,6 +29,8 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+
+</div>
 
 ---
 
@@ -39,5 +43,3 @@
 </picture>
 
 </div>
-
----
