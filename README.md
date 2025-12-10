@@ -1,4 +1,3 @@
-<!-- prettier-ignore-start -->
 <div align="center">
 
 # Edward De Jesus
@@ -10,15 +9,11 @@
 
 ---
 
-
-
----
-
 ### Featured Work
 | Project | Description | Stack |
 |---------|-------------|-------|
- **[noctis](https://github.com/edwarddjss/noctis)** | Adaptive gamma control tool for gamers that monitors screen brightness and adjusts visibility in real-time. | Python, CustomTkinter, MSS |
- **[ExpoSnap](https://github.com/edwarddjss/exposnap)** | Screenshot-to-context tool for Expo Go apps, enabling AI-powered coding assistance from device screenshots | TypeScript, MCP, Node.js |
+ **[noctis](https://github.com/edwarddjss/noctis)** | Adaptive gamma control tool for gamers that monitors screen brightness and adjusts visibility in real-time. | Python, CustomTkinter, MSS |
+ **[ExpoSnap](https://github.com/edwarddjss/exposnap)** | Screenshot-to-context tool for Expo Go apps, enabling AI-powered coding assistance from device screenshots | TypeScript, MCP, Node.js |
 **[OwlWatch](https://owlwatch.app/)** | A real-time FAU course-seat tracking tool that monitors Banner and alerts students when seats open. | TypeScript, Supabase, Nextjs |
 
 ---
@@ -37,14 +32,12 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=edwarddjss&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="150"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwarddjss&layout=compact&theme=transparent&hide_border=true&langs_count=6" height="150"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/edwarddjss/edwarddjss/blob/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/edwarddjss/edwarddjss/blob/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://github.com/edwarddjss/edwarddjss/blob/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
 ---
-
-
-
-<!-- prettier-ignore-end -->
