@@ -17,6 +17,7 @@
 ### Featured Work
 | Project | Description | Stack |
 |---------|-------------|-------|
+ **[noctis](https://github.com/edwarddjss/noctis)** | Adaptive gamma control tool for gamers that monitors screen brightness and adjusts visibility in real-time. | Python, CustomTkinter, MSS |
  **[ExpoSnap](https://github.com/edwarddjss/exposnap)** | Screenshot-to-context tool for Expo Go apps, enabling AI-powered coding assistance from device screenshots | TypeScript, MCP, Node.js |
 **[OwlWatch](https://owlwatch.app/)** | A real-time FAU course-seat tracking tool that monitors Banner and alerts students when seats open. | TypeScript, Supabase, Nextjs |
 
